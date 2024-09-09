@@ -1,0 +1,57 @@
+#banner {
+    height: 90vh;
+    background: url('bg.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.navbar{
+    border-bottom: 2px sandybrown;}
+
+
+
+    .navbar .nav-link:hover {
+      color: sandybrown;
+    }
+    .navbar #navbarNav .nav-link.active {
+        color: sandybrown !important;
+
+    }
+
+
+
+.btn{
+    padding: 15px 30px;
+    border-radius: 60px;
+    font-size: 18px;
+    font-weight: 900;
+    transition: all .4 ease;
+    
+}
+.btn-brand{
+    background-color: sandybrown;
+    color: #FFF;
+}
+.btn-brand:cover {
+    background-color: transparent;
+    border-color: sandybrown;
+    color: sandybrown;
+
+}
+section {
+    padding: 100px 0px;
+
+}
+#about h2 {
+    font-size: 55px;
+    font-weight: 900px;
+    color: sandybrown;
+}
+#service {
+    background-color: #FAFAFA;
+}
+.UWU {
+    width: 40%;
+}
